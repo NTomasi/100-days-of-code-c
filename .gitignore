@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
